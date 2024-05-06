@@ -1,1 +1,3 @@
-# the-wild-oasis
+#The wild Oasis
+
+Main Project in Jonas Schmedtmann's React Class.
