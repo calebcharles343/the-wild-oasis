@@ -6,10 +6,6 @@ import AddCabin from "../features/cabins/addCabin";
 import CabinTableOperations from "../features/cabins/cabinTableOperations";
 
 function Cabins() {
-  // function handlesShowForm() {
-  //   console.log(showForm);
-  // }
-
   return (
     <>
       <Row type="horizontal">
